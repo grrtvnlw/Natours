@@ -1,2 +1,1 @@
-Adds README
 # Natours
